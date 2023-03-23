@@ -19,6 +19,7 @@ A list of project I am working on, most of them are WIPs.
 #### Web extensions
 
 - [userscript-license-indicator](https://github.com/isirode/userscript-license-indicator) : a web extension indicating strongly if the Github repository is open-source or not
+- [tabs-to-clipboard-firefox-extension](https://github.com/isirode/tabs-to-clipboard-firefox-extension) and [tabs-to-clipboard-chromium-extension](https://github.com/isirode/tabs-to-clipboard-chromium-extension) : web extension to copy the browser's tabs to the clipboard
 
 #### VSCode extensions
 
