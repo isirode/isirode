@@ -13,7 +13,8 @@ A list of project I am working on, most of them are WIPs.
 
 #### Web
 
-- [WordGuessr](https://github.com/isirode/word-guessing-solo) : a console game where you need to guess an existing word containing a sequence of letters chosen randomly
+- [WordGuessr Solo](https://github.com/isirode/word-guessing-solo) : a console game where you need to guess an existing word containing a sequence of letters chosen randomly
+- [WordGuessr Multi](https://github.com/isirode/word-guessing-multi-xterm) : a console game where you need to guess an existing word containing a sequence of letters chosen randomly, against other players, using WebRTC
 - [product-app](https://github.com/isirode/products-app) : a site web referencing products I have tried and analysed
 
 #### Web extensions
